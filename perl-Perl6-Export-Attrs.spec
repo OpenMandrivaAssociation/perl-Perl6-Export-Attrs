@@ -1,7 +1,7 @@
 
 %define realname   Perl6-Export-Attrs
 %define version    0.0.3
-%define release    %mkrel 3
+%define release    4
 
 Name:       perl-%{realname}
 Version:    %{version}
