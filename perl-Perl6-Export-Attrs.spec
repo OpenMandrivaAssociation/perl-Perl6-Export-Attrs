@@ -10,7 +10,7 @@ License:    GPL or Artistic
 Group:      Development/Perl
 Summary:    The Perl 6 'is export(...)' trait as a Perl 5 attribute
 Source:     http://www.cpan.org/modules/by-module/Perl6/%{realname}-%{version}.tar.gz
-Url:        http://search.cpan.org/dist/%{realname}
+Url:        https://search.cpan.org/dist/%{realname}
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: perl-devel
 
