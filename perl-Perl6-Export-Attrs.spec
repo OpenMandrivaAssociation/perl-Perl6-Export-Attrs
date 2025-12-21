@@ -12,6 +12,7 @@ Summary:    The Perl 6 'is export(...)' trait as a Perl 5 attribute
 Source:     http://www.cpan.org/modules/by-module/Perl6/%{realname}-%{version}.tar.gz
 Url:        https://search.cpan.org/dist/%{realname}
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-buildroot
+BuildRequires:	make
 BuildRequires: perl-devel
 
 
